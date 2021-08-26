@@ -1,0 +1,2 @@
+# Simple_Ogiri_model
+The simple Ogiri model implemented this time is a model that expects an interesting answer by using the function to predict the character string of the hidden part of the specified character string in Japanese.  Originally, I had to implement various things, collect data, and train for a long time, but by using the published pre-learning model, I was able to implement it in a blink of an eye.
